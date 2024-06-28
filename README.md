@@ -17,10 +17,6 @@ Welcome to the **Transaction Dashboard** project! This repository is one of my o
 - **Transaction Data Management:** Handles and displays transaction data dynamically.
 - **Interactive UI:** Provides a user-friendly and interactive interface.
 
-## Demo
-
-Check out a live demo of the project [here](#).
-
 ## Installation
 
 To get started with the project, follow these steps:
